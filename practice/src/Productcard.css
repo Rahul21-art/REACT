@@ -1,0 +1,42 @@
+.name{
+    font-size: 22px;
+    font-weight: italic;
+    color:black;
+}
+.price{
+    font-size: 20px;
+    font-weight: bold;
+    color:blue;
+}
+.availability{
+    font-size: 20px;
+    font-weight: bold;
+    color:green;
+}
+.notavailability{
+    font-size: 20px;
+    font-weight: bold;
+    color:red;
+}
+.card{
+    border:2px solid black;
+    width:300px;
+    height:200px;
+    margin-left:500px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    padding:25px;
+    box-shadow: 5px 10px 15px #221f1f;
+    text-align: center;
+    background-image: image("motorola.jpg");
+}
+.image{
+    width:350px;
+    height:250px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    margin-top: 350px;
+    size: 350px;
+    opacity: 30%;
+    z-index: -1;
+}
