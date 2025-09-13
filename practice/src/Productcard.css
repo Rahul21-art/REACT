@@ -9,12 +9,12 @@
     color:blue;
 }
 .availability{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color:green;
 }
 .notavailability{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color:red;
 }
@@ -23,8 +23,8 @@
     width:300px;
     height:200px;
     margin-left:500px;
-    margin-bottom: 20px;
-    margin-top: 100px;
+    margin-bottom: 1px;
+    margin-top: 1px;
     padding:25px;
     box-shadow: 5px 10px 15px #221f1f;
     text-align: center;
@@ -35,8 +35,8 @@
     height:250px;
     margin-left: 250px;
     margin-bottom: 20px;
-    margin-top: 350px;
+    margin-top: 273px;
     size: 350px;
     opacity: 30%;
-    z-index: -1;
+   
 }

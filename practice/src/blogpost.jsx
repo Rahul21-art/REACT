@@ -1,10 +1,10 @@
-function Blogpost(){
+function Blogpost(post){
 
     return (
         <div>
-            <p>Author: {postMessage.author}</p>
-            <p>Titile: {post.title}</p>
-            <p>Description: {post.description}</p>
+            <p>Author: {post.Author}</p>
+            <p>Titile: {post.Title}</p>
+            <p>Description: {post.Description}</p>
         </div>
     )
 }
