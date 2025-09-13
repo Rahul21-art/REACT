@@ -82,7 +82,7 @@ function App() {
       <button onClick={handleIncrement}>Increament</button>
       <button onClick={handleDecrement}>Decrement</button>
       <div>
-      <button color:blue  onClick={handleClick}>  LOGIN  </button>
+      <button style={{ backgroundColor: 'blue', color: 'white' }}>LOGIN</button>
       </div>
     </div>
   )
